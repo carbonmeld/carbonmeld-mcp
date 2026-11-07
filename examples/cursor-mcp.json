@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "carbonmeld": {
+      "url": "https://carbonmeld.com/api/v1/mcp"
+    }
+  }
+}
