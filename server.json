@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.carbonmeld/carbonmeld",
+  "title": "CarbonMeld",
+  "description": "Read-only carbon credit project ratings, registry facts, offer checks and buyer retirements.",
+  "version": "1.0.0",
+  "websiteUrl": "https://carbonmeld.com/premium/mcp/",
+  "icons": [
+    { "src": "https://carbonmeld.com/favicon.png", "mimeType": "image/png", "sizes": ["256x256"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://carbonmeld.com/api/v1/mcp" }
+  ]
+}
