@@ -3,8 +3,9 @@
   "name": "com.carbonmeld/carbonmeld",
   "title": "CarbonMeld",
   "description": "Read-only carbon credit project ratings, registry facts, offer checks and buyer retirements.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://carbonmeld.com/premium/mcp/",
+  "repository": { "url": "https://github.com/carbonmeld/carbonmeld-mcp", "source": "github", "id": "1448886658" },
   "icons": [
     { "src": "https://carbonmeld.com/favicon.png", "mimeType": "image/png", "sizes": ["256x256"] }
   ],
