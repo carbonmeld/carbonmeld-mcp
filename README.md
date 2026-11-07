@@ -53,6 +53,28 @@ registries publish it, with its date.
 
 Questions: hello@carbonmeld.com
 
+## 中文
+
+CarbonMeld 的远程 MCP 服务器为 AI 助手提供自愿碳市场项目的只读研究：根据各登记处公开的文件得出的评分、登记处自己的数据，以及每个评分背后的方法。
+
+- 服务器 URL：`https://carbonmeld.com/api/v1/mcp`（Streamable HTTP）
+- 登录：使用您的 CarbonMeld 账户通过 OAuth 2.1 登录。您在 CarbonMeld 页面上批准连接，并可随时在账户页面（“已连接的助手”）断开与助手的连接。
+- 仅限读取：这些工具不能更改任何内容，也不能买卖或付款。
+- 工具列表见上方英文表格。各客户端的完整连接步骤：https://carbonmeld.com/zh/premium/mcp/
+
+CarbonMeld 不出售碳信用。评分仅供参考，不构成投资建议。登记处数据按登记处公布的内容显示，并注明日期。
+
+## 日本語
+
+CarbonMeldのリモートMCPサーバーは、AIアシスタントに自発的炭素市場のプロジェクトに関する読み取り専用の調査を提供します。レジストリが公開する文書にもとづく評価、レジストリ自身のデータ、そして各評価の背後にある評価方法です。
+
+- サーバーURL：`https://carbonmeld.com/api/v1/mcp`（Streamable HTTP）
+- サインイン：CarbonMeldのアカウントでOAuth 2.1によりサインインします。CarbonMeldのページで接続を承認し、アカウントページ（「接続中のアシスタント」）からいつでも接続を解除できます。
+- 読み取りのみ：ツールは何も変更できず、売買や支払いもできません。
+- ツールの一覧は上の英語の表をご覧ください。各クライアントの詳しい接続手順：https://carbonmeld.com/ja/premium/mcp/
+
+CarbonMeldはカーボンクレジットを販売しません。評価は参考情報であり、投資助言ではありません。レジストリのデータは、レジストリが公開したとおりに日付とともに示します。
+
 ## License
 
 [MIT](LICENSE)
