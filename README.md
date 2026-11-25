@@ -31,6 +31,10 @@ the URL above; its code is not here.
 | `what_changed` | The last 30 days of rule-setter notices and registry label changes |
 | `get_method` | CarbonMeld's rating method and its rules |
 | `search_articles` | CarbonMeld's articles in English, Chinese and Japanese |
+| `list_developers` | The project developers' index: the organisations with two or more projects, most projects first, each with its number of projects (no company-level score) |
+| `list_buyers` | The buyers' index: the organisations named as beneficiaries of public retirements of 1,000 tonnes or more, most tonnes first |
+| `get_stats` | The statistics of the current export: projects indexed, registries and marketplaces followed, projects by analysis state |
+| `get_report` | A link to download a project's PDF report, valid for 15 minutes |
 
 ## Connect
 
